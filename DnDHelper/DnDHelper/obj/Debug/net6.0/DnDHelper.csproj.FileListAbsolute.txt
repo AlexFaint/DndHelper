@@ -1,0 +1,15 @@
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\bin\Debug\net6.0\DnDHelper.exe
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\bin\Debug\net6.0\DnDHelper.deps.json
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\bin\Debug\net6.0\DnDHelper.runtimeconfig.json
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\bin\Debug\net6.0\DnDHelper.dll
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\bin\Debug\net6.0\DnDHelper.pdb
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.csproj.AssemblyReference.cache
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.GeneratedMSBuildEditorConfig.editorconfig
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.AssemblyInfoInputs.cache
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.AssemblyInfo.cs
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.csproj.CoreCompileInputs.cache
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.dll
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\refint\DnDHelper.dll
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.pdb
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\DnDHelper.genruntimeconfig.cache
+G:\DnDHelper\DndHelper\DnDHelper\DnDHelper\obj\Debug\net6.0\ref\DnDHelper.dll
