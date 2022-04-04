@@ -1,4 +1,6 @@
-INSERT INTO DnDHelper.dbo.Role(Nickname, Role)
-	VALUES(Alex, GM);
+INSERT INTO DnDHelper.dbo.Roles(Nickname,RoleChar)
+	VALUES('Plop', 'Player');
 
-DROP TABLE DnDHelper.dbo.Role;
+INSERT INTO DnDHelper.dbo.Roles(Nickname,RoleChar)
+	VALUES('Boba', 'Player');
+

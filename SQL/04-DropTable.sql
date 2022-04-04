@@ -1,0 +1,1 @@
+DROP TABLE DnDHelper.dbo.RaceBonuses;

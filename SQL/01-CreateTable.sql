@@ -16,20 +16,11 @@ CREATE TABLE dbo.DiceRolls
 	Charisma INT NOT NULL,
 );
 
-CREATE TABLE dbo.Race
-(
-	Id INT IDENTITY (1,1) NOT NULL,
-	Strength INT,
-	Dexterity INT,
-	Consitutuin INT,
-	Intelligence INT,
-	Wisdom INT,
-	Charisma INT,
-);
 
 CREATE TABLE dbo.RaceBonuses
 (
 	Id INT IDENTITY (1,1) NOT NULL,
+	Name VARCHAR (100) NOT NULL,
 	Strength INT,
 	Dexterity INT,
 	Consitutuin INT,
@@ -41,6 +32,7 @@ CREATE TABLE dbo.RaceBonuses
 CREATE TABLE dbo.PlayerClassBonuses
 (
 	Id INT IDENTITY (1,1) NOT NULL,
+	Name VARCHAR (100) NOT NULL,
 	Strength INT,
 	Dexterity INT,
 	Consitutuin INT,
